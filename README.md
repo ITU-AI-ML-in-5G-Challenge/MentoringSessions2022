@@ -9,4 +9,4 @@ DataPreprocessing_FeatureSelection.ipynb
 <br>
 DataPreprocessing_Smoothing.ipynb
 <br>
-Data from KDDI and RISING problem statement.
+Data from KDDI and RISING problem statements.
