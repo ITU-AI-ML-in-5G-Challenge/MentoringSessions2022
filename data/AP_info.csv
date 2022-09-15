@@ -1,0 +1,13 @@
+﻿First,,,,,
+AP SSID,Latitude,Longitude,Hight Difference(m),Indoor/Outdoor,Ref
+AAA001,35.158465,136.924283,0,Outdoor,AP is setting on next to a fence
+AAA002,35.158889,136.924350,0,Outdoor,AP is setting on next to metal warehouse
+AAA003,35.1585098,136.9237624,0,Outdoor,AP is setting on inside of  chaparral
+AAA004,35.1589314,136.9238355,0,Outdoor,AP is setting on inside of chaparral
+,,,,,
+Second,,,,,
+AP SSID,Latitude,Longitude,Hight Difference(m),Indoor/Outdoor,Ref
+AAA001,35.1584725,136.924281,0,Outdoor,AP is setting on next to a fence
+AAA002,35.1588845,136.924349,0,Outdoor,AP is setting on next to metal warehouse
+AAA003,35.1585191,136.923743,0,Outdoor,AP is setting on inside of  chaparral
+AAA004,35.1589385,136.923805,0,Outdoor,AP is setting on inside of chaparral
