@@ -5,6 +5,8 @@ All resources provided during the 2022 Mentoring Sessions can be found here.
 <br>
 9/15 Data Preprocessing
 <br>
+Data Preprocessing_v3.pptx
+<br>
 DataPreprocessing_FeatureSelection.ipynb
 <br>
 DataPreprocessing_Smoothing.ipynb
