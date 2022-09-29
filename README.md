@@ -12,3 +12,7 @@ DataPreprocessing_FeatureSelection.ipynb
 DataPreprocessing_Smoothing.ipynb
 <br>
 Data from KDDI and RISING problem statements.
+<br>
+9/29 Model Building and Training
+<br>
+ML_model_building_and_training.ipynb
