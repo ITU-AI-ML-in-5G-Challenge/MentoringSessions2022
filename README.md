@@ -21,3 +21,10 @@ Data from KDDI and RISING problem statements.
 ML_model_building_and_training.ipynb
 <br>
 MachineLearningModels.pptx
+<br><br>
+10/27 Model Optimization and Compression
+<br>
+<br>
+ML_model_compression_pr.ipynb (Practice Notebook)
+<br>
+
