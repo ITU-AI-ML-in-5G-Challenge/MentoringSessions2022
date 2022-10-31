@@ -28,3 +28,5 @@ MachineLearningModels.pptx
 ML_model_compression_pr.ipynb (Practice Notebook)
 <br>
 ML_model_compression.ipynb (Full Notebook)
+<br>
+Model Optimization  Compression_v3.pptx
